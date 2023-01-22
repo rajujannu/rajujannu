@@ -80,20 +80,16 @@ public class Bicbds {
 		  i++;
 		}while(i<=6);
 		
-		
-		
-		
-		
-//		System.out.println(a+c+b);1
-//		System.out.println(a+b+e);
-//		System.out.println(x+y);
-//		System.out.println(y+c); 
-//		System.out.println(x+z);
-//		System.out.println(x<y);
-//		System.out.println(x>y);
-//		System.out.println(e+g);
-//		System.out.println(a+c+b+x+z+c+(e+g)+c+d);
-//		System.out.println(c);
+		System.out.println(a+c+b);1
+		System.out.println(a+b+e);
+		System.out.println(x+y);
+		System.out.println(y+c); 
+		System.out.println(x+z);
+		System.out.println(x<y);
+		System.out.println(x>y);
+		System.out.println(e+g);
+		System.out.println(a+c+b+x+z+c+(e+g)+c+d);
+		System.out.println(c);
 
 	}
 
